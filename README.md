@@ -6,7 +6,8 @@
 Источник данных: Excel-выгрузка
 Задача: разработать дашборд по анализу посещаемости проектов на платформе Fastboard. Определить какие дашборды и потоки реально используются, сколько уникальных пользователей, какие проекты являются неподключенными, какие дашборды «мертвые», а какие — ключевые.
 
-<img width="1301" height="825" alt="image" src="https://github.com/user-attachments/assets/d4d03145-fe7f-4598-9e2f-70454a0f341e" />
+<img width="1299" height="874" alt="image" src="https://github.com/user-attachments/assets/fe0a24ff-e76d-44f1-a3d6-a8f8ac8ad26d" />
+
 <img width="1048" height="806" alt="image" src="https://github.com/user-attachments/assets/4dbb3dbc-af5d-444e-82e2-e52108fe0c84" />
 
 Для опубликования в проекте представлены сгенерированные данные. 
